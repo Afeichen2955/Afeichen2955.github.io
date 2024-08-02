@@ -42,4 +42,3 @@ My current research focuses on practical problems that artificial intelligence f
 - **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
 - **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
 
-
