@@ -29,6 +29,6 @@ title: Hobbies
 
 ## Past Hobbies
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
+I previously enjoyed long-distance running and computer game developing/playing. However, I have no time to do any of these things recently.
 
 
