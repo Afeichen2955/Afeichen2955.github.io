@@ -10,7 +10,7 @@ title: Awards
 - 2022/2023: Second-Class University Scholarship
 
 
-## Competitions (Selected)
+## Competitions 
 
 - July 2024: [Second Prize] the 11th **China Visualization and Visual Analytics Conference**
 - Jan 2024: [Third Prize] of the 8th **Millan Design Week**, China Collegiate Design Competition
