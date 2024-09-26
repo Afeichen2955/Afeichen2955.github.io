@@ -4,12 +4,19 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 3th August 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+## Published
 
-## CHI SDC Paper
+- **Yifei Chen**, Qinglin Mao, Xinlie Huang, \& Ningning Xu. 2024. LanternOperAR: A Hybrid Cultural Gift for Quality Education and Family Well-being. In Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems **(CHI EA '24)**. DOI: https://doi.org/10.1145/3613905.3647972
+-  Ningning XU, **Yifei Chen**, Teng Ma, Qinglin Mao, Xinlie Huang, Haibo Zhou, \& Sun, X. (2024). LanternOperAR: Integrating Gamification and Visualization to Engage with Yue Opera in a Hybrid Gift. The Eurographics Association. Eurographics Workshop on Graphics and Cultural Heritage **(GCH 2024)** . DOI: https://doi.org/10.2312/gch.20241254
 
-- Poster: LanternOperAR: A Hybrid Cultural Gift for Quality 
-Education and Family Well-being <br>**Yifei Chen**, Qinglin Mao, Xinlie Huang, Ningning Xu<br>The 24nd ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2024](https://www.sigmobile.org/mobisys/2024/))<br>Tokyo, Japan. June, 2024.
+## Accepted
+
+- Ningning Xu, **Yifei Chen**, Teng Ma, Qingling Mao, Xinlie Huang, Haivo Zhou, Xu Sun. (2024). LanternOperAR: Engaging Yue Opera Culture with Chinese Philosophy in Hybrid Gift through Interactive Experience (Paper ID: JOCCH-24-0194). the ACM Journal on Computing and Cultural Heritage (JOCCH 2024, SCI-4). (In Press)
+- **Yifei Chen**, Chengming Ye, Zheyuan Jiang, Jingji Li, Yunqi Wang, Teng Ma, Ningning Xu. (2024). EmoVR: Guiding and Visualizing Emotions in Virtual Reality Therapy for Mental Health (Paper ID: W11-MARMH-0003). Mixed/Augmented Reality for Mental Health **(MARMH’24, IEEE ISMAR 2024)**. (Pending Presentation)
+
+## Submitted
+
+- Ningning Xu, Yu Liu, **Yifei Chen**, Yuwei Ren, Zheyuan Jiang, Zhichao Zhang, Bin Jia, Lingyun Yu. (2024). ArtifactShow: Integrating Generative AI into Narrative Visualization for Enhanced Cultural Experiences (Paper ID: 4062). The ACM Conference on Human Factors in Computing Systems **(CHI 2025)**
 
   <br>
 
@@ -18,9 +25,7 @@ Education and Family Well-being <br>**Yifei Chen**, Qinglin Mao, Xinlie Huang, N
 
 ## Degree Thesis
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Best Project Award (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at [China Huading Tech](http://www.hdim.com.cn/) and [IIoT Lab](https://dqxy.fzu.edu.cn/en/)<br>
+TBA.
 
   <br>
 
@@ -29,17 +34,5 @@ Education and Family Well-being <br>**Yifei Chen**, Qinglin Mao, Xinlie Huang, N
 ## Manuscript
 
 TBA.
-
-<br>
-
----
-
-## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>AAAI Conference on Artificial Intelligence. Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
 
   <br>
