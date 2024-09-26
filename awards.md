@@ -4,16 +4,17 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 3th August 2024 &nbsp;
+> Lastest Update: 26th September 2024 &nbsp;
 
 ## Scholarships
-
+- 2022/2023: Second-Class University Scholarship
 
 
 ## Competitions (Selected)
 
-- Jan 2024: Third Prize of the 8th **Milan Design Week** - "Yangming Wenchuang" Creative Design Competition
-- Nov 2023：Second Prize of Zhejiang University Students' **Economic Management Case Competition** (Undergraduate Group)
+- July 2024: [Second Prize] the 11th **China Visualization and Visual Analytics Conference**
+- Jan 2024: [Third Prize] of the 8th **Millan Design Week**, China Collegiate Design Competition
+- Nov 2023：[Second Prize] of Zhejiang University Students' **Economic Management Case Competition** (Undergraduate Group)
 
 
 ## Services
