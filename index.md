@@ -8,7 +8,7 @@ layout: page
 
 Here is **Yifei Chen (Faye, 陈奕菲)**.
 
-I am a final-year undergrade majoring in Visual and communication design at Zhejiang Wanli University. Currently, I serve as a research assistant at the MetaHCI Lab, advised by [Ningning Xu](https://axiosly.github.io/portfolio.html). I also spent a lovely summer research program Ninbo Yunhanhongzhang Information Technology Co, LTD at University of Nottingham Ningbo China. Recently, I was selected as a teaching assistant for the VR design course at the Sino-German School of Design and Communication at Zhejiang Wanli University.
+I am a final-year undergrade majoring in Visual and communication design at Zhejiang Wanli University. Currently, I serve as a research assistant at the MetaHCI Lab, advised by [Ningning Xu](https://axiosly.github.io/portfolio.html). I also spent a lovely summer research program Rosy Nebula Information Technology Co.,ltd at University of Nottingham Ningbo China. Recently, I was selected as a teaching assistant for the VR design course at the Sino-German School of Design and Communication at Zhejiang Wanli University.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *2021016820@zwu.edu.cn* or *afeichen2955@gmail.com*
 
